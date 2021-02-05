@@ -3,7 +3,7 @@ description: Only for sandbox
 type: CoreBlock
 size: 1
 unitCapModifier: 100000
-BuildVisibility: false
+BuildVisibility: true
 inEditor: true
 itemCapacity: 100e+100
 displayFlow: true
