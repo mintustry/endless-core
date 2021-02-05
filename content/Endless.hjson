@@ -1,0 +1,18 @@
+name: Endless
+description: Only for sandbox
+type: CoreBlock
+size: 1
+unitCapModifier: 100000
+BuildVisibility: false
+inEditor: true
+itemCapacity: 100e+100
+displayFlow: true
+hasPower: true
+placeableLiquid: true
+insulated: true
+absorbLasers: true
+chanceDeflect: 100
+flashHit: 
+destructible: false
+category: storage
+

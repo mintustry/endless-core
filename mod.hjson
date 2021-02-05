@@ -1,0 +1,6 @@
+name: "a core"
+displayName: "unit cap = (-nil-)" //what displays in the mod selection menu
+author: "That child"
+description: "core"
+version: "011"
+minGameVersion: "112"
