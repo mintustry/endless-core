@@ -14,5 +14,5 @@ absorbLasers: true
 chanceDeflect: 100
 flashHit: 000000
 destructible: false
-category: storage
+category: effect
 
