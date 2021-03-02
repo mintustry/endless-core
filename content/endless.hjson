@@ -12,7 +12,7 @@ placeableLiquid: true
 insulated: true
 absorbLasers: true
 chanceDeflect: 100
-flashHit: 
+flashHit: 000000
 destructible: false
 category: storage
 
