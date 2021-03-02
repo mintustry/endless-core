@@ -7,6 +7,7 @@ requirements: [
 copper/0
 ] 
 BuildVisibility: true
+unitType: "n"
 inEditor: true
 itemCapacity: 100e+100
 displayFlow: true
